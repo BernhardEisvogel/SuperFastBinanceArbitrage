@@ -8,6 +8,5 @@ Run compileAndTest.sh to see if the C++ library (g++) compiled correctly, insert
 # Improvements
 
 - The algorithm in the C++ file can be improved e.g. with the improvement proposed by Yen in 1970
-- The data handling between the C++ and python part can be optimised
 
 Seen that I have reached my goal and learned how to add super fast C++ routines tp Python programs, I will solve those problems in a future semester break.
